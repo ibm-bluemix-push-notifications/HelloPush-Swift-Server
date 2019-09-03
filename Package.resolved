@@ -1,0 +1,88 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "IBMPushNotifications",
+        "repositoryURL": "https://github.com/ibm-bluemix-mobile-services/bluemix-pushnotifications-swift-sdk.git",
+        "state": {
+          "branch": null,
+          "revision": "6ce663efe5c61a79a2f54359afb47f7461828b6a",
+          "version": "1.4.0"
+        }
+      },
+      {
+        "package": "SimpleHttpClient",
+        "repositoryURL": "https://github.com/ibm-bluemix-mobile-services/bluemix-simple-http-client-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "e5b6ce424f1ff8bc78eee0fae382ac7f1f8ca843",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "SimpleLogger",
+        "repositoryURL": "https://github.com/ibm-bluemix-mobile-services/bluemix-simple-logger-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "4e3882aebabee30933a23944d48c084bb7c5e31d",
+          "version": "0.6.0"
+        }
+      },
+      {
+        "package": "Socket",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSocket.git",
+        "state": {
+          "branch": null,
+          "revision": "49cab699e9f151eeb870ab93d14642425e824c19",
+          "version": "1.0.49"
+        }
+      },
+      {
+        "package": "SSLService",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSSLService.git",
+        "state": {
+          "branch": null,
+          "revision": "de36b4d078a12fffba982d17f59d2b7ca587bec9",
+          "version": "1.0.49"
+        }
+      },
+      {
+        "package": "CCurl",
+        "repositoryURL": "https://github.com/IBM-Swift/CCurl.git",
+        "state": {
+          "branch": null,
+          "revision": "ef7406e8a8e5a8c151840ac9b7d3f64f24441e22",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "Kitura-net",
+        "repositoryURL": "https://github.com/IBM-Swift/Kitura-net.git",
+        "state": {
+          "branch": null,
+          "revision": "5fc06b21e8e615147fa8341c249ae010a1b41fba",
+          "version": "2.3.0"
+        }
+      },
+      {
+        "package": "LoggerAPI",
+        "repositoryURL": "https://github.com/IBM-Swift/LoggerAPI.git",
+        "state": {
+          "branch": null,
+          "revision": "3357dd9526cdf9436fa63bb792b669e6efdc43da",
+          "version": "1.9.0"
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "eba9b323b5ba542c119ff17382a4ce737bcdc0b8",
+          "version": "0.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

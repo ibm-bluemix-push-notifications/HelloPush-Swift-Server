@@ -48,6 +48,7 @@ let myPushNotifications = PushNotifications(pushRegion: PushNotifications.Region
 * Video Tutorials Available here - [IBM Cloud Push Notifications](https://www.youtube.com/channel/UCRr2Wou-z91fD6QOYtZiHGA)
 
 =======================
+
 Copyright 2019 IBM Corp.
 
 Licensed under the Apache License, Version 2.0 (the "License");

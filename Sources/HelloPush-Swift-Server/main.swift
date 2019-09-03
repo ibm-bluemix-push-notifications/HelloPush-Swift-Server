@@ -2,7 +2,7 @@ import IBMPushNotifications
 import Foundation
 
 // MARK: Initialize PushNotifications with apiKey
-let myPushNotifications = PushNotifications(pushApiKey:"j0IuKEYWJ3sF891hjykvekTlkohGZxQH66dKQVA7ZjXT", pushAppGuid: "459c2266-55bc-4827-bcb1-f5af13d13fc5", pushRegion: PushNotifications.Region.US_SOUTH)
+let myPushNotifications = PushNotifications(pushApiKey:"your-push-service-apikey", pushAppGuid: "your-push-service-guid", pushRegion: PushNotifications.Region.US_SOUTH)
 
 // MARK: GET AUTH TOKEN
 myPushNotifications.getAuthToken(completionHandler: { (hasToken, tokenString) in
